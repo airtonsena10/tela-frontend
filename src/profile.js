@@ -15,8 +15,8 @@ function Profile() {
                 <p>Jeremoabo/Bahia -Brasil</p>
             </div>
             <div className="profile__infor">
-                <p>Incicle</p>
-                <p>Uninorte</p>
+                <p>Rocketseat</p>
+                <p>React Estudos</p>
             </div>
 
 
